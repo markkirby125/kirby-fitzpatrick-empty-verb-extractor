@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-empty-verb-extractor
-description: "Unroll nominalizations and replace bureaucratic empty verbs with direct active predicates." Use this when working on fitzpatrick empty verb extractor.
+description: "Unroll nominalizations and replace bureaucratic empty verbs with direct active predicates. Use this when working on fitzpatrick empty verb extractor."
 category: "Writing & Communication"
 triggers:
   - "empty verb extractor"
