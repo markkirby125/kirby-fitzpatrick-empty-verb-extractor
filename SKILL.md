@@ -9,7 +9,7 @@ triggers:
   - "bureaucratic syntax"
   - "active predicate"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
